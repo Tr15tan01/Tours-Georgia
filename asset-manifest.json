@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Tr15tan01/Tours-Georgia/static/css/main.7c90efc5.chunk.css",
-    "main.js": "/Tr15tan01/Tours-Georgia/static/js/main.18d2eebf.chunk.js",
-    "main.js.map": "/Tr15tan01/Tours-Georgia/static/js/main.18d2eebf.chunk.js.map",
-    "runtime-main.js": "/Tr15tan01/Tours-Georgia/static/js/runtime-main.b6242def.js",
-    "runtime-main.js.map": "/Tr15tan01/Tours-Georgia/static/js/runtime-main.b6242def.js.map",
-    "static/js/2.f0742ee7.chunk.js": "/Tr15tan01/Tours-Georgia/static/js/2.f0742ee7.chunk.js",
-    "static/js/2.f0742ee7.chunk.js.map": "/Tr15tan01/Tours-Georgia/static/js/2.f0742ee7.chunk.js.map",
-    "index.html": "/Tr15tan01/Tours-Georgia/index.html",
-    "static/css/main.7c90efc5.chunk.css.map": "/Tr15tan01/Tours-Georgia/static/css/main.7c90efc5.chunk.css.map",
-    "static/js/2.f0742ee7.chunk.js.LICENSE.txt": "/Tr15tan01/Tours-Georgia/static/js/2.f0742ee7.chunk.js.LICENSE.txt"
+    "main.css": "/Tours-Georgia/static/css/main.7c90efc5.chunk.css",
+    "main.js": "/Tours-Georgia/static/js/main.36a7911a.chunk.js",
+    "main.js.map": "/Tours-Georgia/static/js/main.36a7911a.chunk.js.map",
+    "runtime-main.js": "/Tours-Georgia/static/js/runtime-main.8ead2f6c.js",
+    "runtime-main.js.map": "/Tours-Georgia/static/js/runtime-main.8ead2f6c.js.map",
+    "static/js/2.f0742ee7.chunk.js": "/Tours-Georgia/static/js/2.f0742ee7.chunk.js",
+    "static/js/2.f0742ee7.chunk.js.map": "/Tours-Georgia/static/js/2.f0742ee7.chunk.js.map",
+    "index.html": "/Tours-Georgia/index.html",
+    "static/css/main.7c90efc5.chunk.css.map": "/Tours-Georgia/static/css/main.7c90efc5.chunk.css.map",
+    "static/js/2.f0742ee7.chunk.js.LICENSE.txt": "/Tours-Georgia/static/js/2.f0742ee7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b6242def.js",
+    "static/js/runtime-main.8ead2f6c.js",
     "static/js/2.f0742ee7.chunk.js",
     "static/css/main.7c90efc5.chunk.css",
-    "static/js/main.18d2eebf.chunk.js"
+    "static/js/main.36a7911a.chunk.js"
   ]
 }
