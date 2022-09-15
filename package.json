@@ -1,7 +1,7 @@
 {
   "name": "landingpage-react-template",
   "private": true,
-  "homepage": "https://github.com/Tr15tan01/Tours-Georgia",
+  "homepage": "https://tr15tan01.github.io/Tours-Georgia/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
